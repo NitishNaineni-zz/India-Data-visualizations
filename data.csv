@@ -13,7 +13,7 @@
 11,12,West Bengal,Alipurduars,John Barla,BJP,9,26.4838,89.535
 12,13,Uttar Pradesh,Allahabad,Rita Bahuguna Joshi,BJP,6,25.4381302,81.8338005
 13,14,Uttarakhand,Almora,Ajay Tamta,BJP,0,29.6016827,79.6633829
-14,15,Rajasthan,Alwar,Balak Nath,BJP,0,31.403611,45.197222
+14,15,Rajasthan,Alwar,Balak Nath,BJP,0,27.553,76.6346
 15,16,Andhra Pradesh,Amalapuram,Chinta Anuradha,YSRCP,0,16.5777179,82.0032621
 16,17,Haryana,Ambala,Rattan Lal Kataria,BJP,0,30.3843674,76.770421
 17,18,Uttar Pradesh,Ambedkar Nagar,Ritesh Pandey,BSP,1,26.40349795,82.60728148676125
@@ -34,17 +34,17 @@
 32,33,Tamil Nadu,Arani,Vishnu Prasad M K,INC,1,11.1271,78.6569
 33,34,Bihar,Araria,Pradeep Kumar Singh,BJP,3,26.157209950000002,87.46505969990433
 34,35,Bihar,Arrah,R. K. Singh,BJP,1,25.5602783,84.6612398
-35,36,Andhra Pradesh,Aruku,Goddeti Madhavi,YSRCP,0,1.783333,127.633333
+35,36,Andhra Pradesh,Aruku,Goddeti Madhavi,YSRCP,0,18.3273,82.8775
 36,37,Arunachal Pradesh,Arunachal East,Tapir Gao,BJP,0,24.8554575,92.7429625
 37,38,Arunachal Pradesh,Arunachal West,Kiren Rijiju,BJP,0,27.08793205,93.6102638735841
 38,39,West Bengal,Asansol,Babul Supriya Baral,BJP,4,23.6871297,86.9746587
-39,40,Odisha,Aska,Pramila Bisoyi,BJD,0,67.3028646,26.684095
+39,40,Odisha,Aska,Pramila Bisoyi,BJD,0,19.6159,84.6649
 40,41,Kerala,Attingal,Adv. Adoor Prakash,INC,7,8.6943917,76.8191784
 41,42,Bihar,Aurangabad,Sushil Kumar Singh,BJP,3,19.877263,75.3390241
 42,43,Maharashtra,Aurangabad,Imtiaz Jaleel Syed,AIMIM,4,19.877263,75.3390241
-43,44,Assam,Autonomous District,Horen Sing Bey,BJP,2,45.2459585,19.8323997
+43,44,Assam,Autonomous District,Horen Sing Bey,BJP,2,26.2006,92.9376
 44,45,Uttar Pradesh,Azamgarh,Akhilesh Yadav,SP,0,26.0,83.0
-45,46,Uttar Pradesh,Badaun,Dr. Sanghmitra Maurya,BJP,2,5.5315266,115.7810597
+45,46,Uttar Pradesh,Badaun,Dr. Sanghmitra Maurya,BJP,2,28.0311,79.1271
 46,47,Karnataka,Bagalkot,Gaddigoudar Parvatagouda Chandanagouda,BJP,0,16.1793224,75.6999315
 47,48,Uttar Pradesh,Baghpat,Dr. Satyapal Singh,BJP,1,28.97240405,77.33315284938224
 48,49,West Bengal,Baharampur,Adhir Ranjan Chowdhury,INC,7,24.3795759,88.58557279234097
@@ -54,7 +54,7 @@
 52,53,Uttar Pradesh,Ballia,Virendra Singh,BJP,2,25.833333,84.166667
 53,54,West Bengal,Balurghat,Sukanta Majumdar,BJP,0,25.2234352,88.7780654
 54,55,Gujarat,Banaskantha,Parbatbhai Savabhai Patel,BJP,0,24.172056,72.431134
-55,56,Uttar Pradesh,Banda,R.k. Singh Patel,BJP,2,2.74037,45.66942
+55,56,Uttar Pradesh,Banda,R.k. Singh Patel,BJP,2,25.4763,80.3395
 56,57,Karnataka,Bangalore Central,P. C. Mohan,BJP,0,12.97339325,77.61123426914668
 57,58,Karnataka,Bangalore North,D.v. Sadananda Gowda,BJP,0,12.9791198,77.5912997
 58,59,Karnataka,Bangalore Rural,D.k. Suresh,INC,5,13.0010872,77.3361225
@@ -156,12 +156,12 @@
 154,155,Odisha,Dhenkanal,Mahesh Sahoo,BJD,1,20.75,85.5
 155,156,Assam,Dhubri,Badruddin Ajmal,AIUDF,7,26.01894625,89.94188952461522
 156,157,Maharashtra,Dhule,Bhamre Subhash Ramrao,BJP,2,20.879693850000002,74.70337083800928
-157,158,West Bengal,Diamond Harbour,Abhishek Banerjee,AITC,0,-43.6490752,172.7245541305474
+157,158,West Bengal,Diamond Harbour,Abhishek Banerjee,AITC,0,22.1927,88.1895
 158,159,Assam,Dibrugarh,Rameswar Teli,BJP,0,27.4844597,94.9019447
 159,160,Tamil Nadu,Dindigul,"Velusamy, P.",DMK,0,10.3303299,78.0673979084697
 160,161,Maharashtra,Dindori,Dr. Bharati Pravin Pawar,BJP,0,22.9446796,81.0774969
 161,162,Uttar Pradesh,Domariyaganj,Jagdambika Pal,BJP,3,27.198094750000003,82.67672525715395
-162,163,West Bengal,Dum Dum,Sougata Ray,AITC,1,1.0433013,127.6556777
+162,163,West Bengal,Dum Dum,Sougata Ray,AITC,1,22.642,88.4312
 163,164,Jharkhand,Dumka,Sunil Soren,BJP,0,24.2538512,87.30064714192224
 164,165,Chhattisgarh,Durg,Vijay Baghel,BJP,0,21.1897285,81.2746469
 165,166,Delhi,East Delhi,Manoj Tiwari,BJP,1,28.6204767,77.30918071344418
@@ -185,7 +185,7 @@
 183,184,Uttarakhand,Garhwal,Tirath Singh Rawat,BJP,0,30.5,78.666667
 184,185,Assam,Gauhati,Queen Oja,BJP,0,26.1805978,91.753943
 185,186,Uttar Pradesh,Gautam Buddh Nagar,Dr. Mahesh Sharma,BJP,0,28.3383,77.6078
-186,187,Bihar,Gaya,Vijay Kumar,JD(U),3,35.6698886,139.599449
+186,187,Bihar,Gaya,Vijay Kumar,JD(U),3,24.7914,85.0002
 187,188,West Bengal,Ghatal,Adhikari Deepak (dev),AITC,0,22.6645296,87.7338573
 188,189,Uttar Pradesh,Ghaziabad,Vijay Kumar Singh,BJP,2,28.711241,77.4445372
 189,190,Uttar Pradesh,Ghazipur,Afzal Ansari,BSP,5,25.5,83.5
@@ -225,7 +225,7 @@
 223,224,Madhya Pradesh,Jabalpur,Rakesh Singh,BJP,1,23.1608938,79.9497702
 224,225,West Bengal,Jadavpur,Mimi Chakraborty,AITC,0,22.4951079,88.3749813
 225,226,Odisha,Jagatsinghpur,Rajashree Mallick,BJD,0,20.2593872,86.1660878
-226,227,Bihar,Jahanabad,Chandeshwar Prasad,JD(U),3,35.9945647,59.0749853
+226,227,Bihar,Jahanabad,Chandeshwar Prasad,JD(U),3,25.2133,84.9853
 227,228,Rajasthan,Jaipur,Ramcharan Bohra,BJP,0,26.916194,75.820349
 228,229,Rajasthan,Jaipur Rural,Col. Rajyavardhan Rathore,BJP,0,27.3075,75.9928
 229,230,Odisha,Jajpur,Sarmistha Sethi,BJD,0,20.82052895,86.26716892763254
@@ -265,10 +265,10 @@
 263,264,Himachal Pradesh,Kangra,Kishan Kapoor,BJP,2,32.166667,76.25
 264,265,Chhattisgarh,Kanker,Mohan Mandavi,BJP,0,20.2692747,81.4932111
 265,266,Uttar Pradesh,Kannauj,Subrat Pathak,BJP,11,27.0660708,79.85125103088242
-266,267,Tamil Nadu,Kanniyakumari,Vasanthakumar. H,INC,0,8.0879641,77.5467414
+266,267,Tamil Nadu,Kanniyakumari,Vasanthakumar. H,INC,0,8.0883,77.5385
 267,268,Kerala,Kannur,K. Sudhakaran,INC,3,11.8762254,75.3738043
 268,269,Uttar Pradesh,Kanpur,Satyadev Pachauri,BJP,0,26.4609135,80.3217588
-269,270,West Bengal,Kanthi,Sisir Kumar Adhikari,AITC,3,7.0913028,80.009114
+269,270,West Bengal,Kanthi,Sisir Kumar Adhikari,AITC,3,21.7781,87.7517
 270,271,Bihar,Karakat,Mahabali Singh,JD(U),3,25.1697215,84.2974162
 271,272,Rajasthan,Karauli-dholpur,Manoj Rajoria,BJP,0,26.5071,77.2865
 272,273,Assam,Karimganj,Kripanath Mallah,BJP,0,24.8483482,92.33221292310328
@@ -333,14 +333,14 @@
 331,332,West Bengal,Maldaha Dakshin,Abu Hasem Khan Chowdhury (dalu),INC,0,10.5667,72.6417
 332,333,West Bengal,Maldaha Uttar,Khagen Murmu,BJP,4,25.1786,88.2461
 333,334,Telangana,Malkajgiri,Anumula Revanth Reddy,INC,42,17.4483438,78.5289727
-334,335,Himachal Pradesh,Mandi,Ram Swaroop Sharma,BJP,0,40.001285,3.8343479
+334,335,Himachal Pradesh,Mandi,Ram Swaroop Sharma,BJP,0,31.5892,76.9182
 335,336,Madhya Pradesh,Mandla,Faggan Singh Kulaste,BJP,0,22.5259464,80.2816781
 336,337,Madhya Pradesh,Mandsour,Sudheer Gupta,BJP,1,24.0734,75.0679
 337,338,Karnataka,Mandya,Sumalatha Ambareesh,IND,0,12.5238888,76.8961961
 338,339,Assam,Mangaldoi,Dilip Saikia,BJP,0,26.436303,92.0306569
 339,340,Uttar Pradesh,Mathura,Hema Malini,BJP,0,27.633333,77.583333
 340,341,West Bengal,Mathurapur,Choudhury Mohan Jatua,AITC,0,22.1221764,88.384274
-341,342,Maharashtra,Maval,Shrirang Appa Chandu Barne,SHS,3,34.0441081,-5.0110493
+341,342,Maharashtra,Maval,Shrirang Appa Chandu Barne,SHS,3,18.7552,73.4445
 342,343,Kerala,Mavelikara,Kodikunnil Suresh,INC,1,9.2504893,76.5402433
 343,344,Tamil Nadu,Mayiladuthurai,Ramalingam. S,DMK,0,11.1018614,79.6503162
 344,345,Odisha,Mayurbhanj,Bishweswar Tudu,BJP,1,21.75,86.5
@@ -352,7 +352,7 @@
 350,351,Mizoram,Mizoram,C Lalrosanga,MNF,0,23.2146169,92.8687612
 351,352,Uttar Pradesh,Mohanlalganj,Kaushal Kishore,BJP,1,26.680635,80.9830834
 352,353,Uttar Pradesh,Moradabad,Dr. S.t. Hasan,SP,0,28.8334982,78.7732864
-353,354,Madhya Pradesh,Morena,Narendra Singh Tomar,BJP,1,-22.382338,-41.776493
+353,354,Madhya Pradesh,Morena,Narendra Singh Tomar,BJP,1,26.4947,77.994
 354,355,Maharashtra,Mumbai North,Gopal Shetty,BJP,9,18.9387711,72.8353355
 355,356,Maharashtra,Mumbai North Central,Poonam Mahajan,BJP,2,19.0722,72.8634
 356,357,Maharashtra,Mumbai North East,Manoj Kotak,BJP,2,18.9387711,72.8353355
@@ -416,7 +416,7 @@
 414,415,Gujarat,Porbandar,Rameshbhai Lavjibhai Dhaduk,BJP,0,21.6409,69.611
 415,416,Uttar Pradesh,Pratapgarh,Sangam Lal Gupta,BJP,2,25.75,81.75
 416,417,Maharashtra,Pune,Girish Bhalchandra Bapat,BJP,1,18.521428,73.8544541
-417,418,Odisha,Puri,Pinaki Misra,BJD,0,54.5129203,9.5483555
+417,418,Odisha,Puri,Pinaki Misra,BJD,0,19.8135,85.8312
 418,419,Bihar,Purnia,Santosh Kumar,JD(U),1,25.7773601,87.4731227
 419,420,West Bengal,Purulia,Jyotirmay Singh Mahato,BJP,2,23.29614645,86.34210770023
 420,421,Bihar,Purvi Champaran,Radha Mohan Singh,BJP,1,26.6098,84.8568
@@ -447,7 +447,7 @@
 445,446,Gujarat,Sabarkantha,Rathod Dipsinh Shankarsinh,BJP,0,24.0294885,73.0459884
 446,447,Madhya Pradesh,Sagar,Rajbahadur Singh,BJP,1,23.75,78.75
 447,448,Uttar Pradesh,Saharanpur,Haji Fazlur Rehman,BSP,0,30.019648500000002,77.5929424528558
-448,449,Tamil Nadu,Salem,Parthiban.s.r,DMK,4,37.293378,-80.054667
+448,449,Tamil Nadu,Salem,Parthiban.s.r,DMK,4,11.6643,78.146
 449,450,Uttar Pradesh,Salempur,Ravinder,BJP,0,26.2967211,83.921322
 450,451,Bihar,Samastipur,Ramchandra Paswan,LJNSP,5,25.75,85.916667
 451,452,Odisha,Sambalpur,Nitesh Ganga Deb,BJP,1,21.4,83.883333
@@ -455,7 +455,7 @@
 453,454,Maharashtra,Sangli,Sanjaykaka Patil,BJP,1,16.8502534,74.5948885
 454,455,Punjab,Sangrur,Bhagwant Mann,AAAP,0,30.2432006,75.8358123
 455,456,Uttar Pradesh,Sant Kabir Nagar,Praveen Kumar Nishad,BJP,0,26.7882737,82.9600798
-456,457,Bihar,Saran,Rajiv Pratap Rudy,BJP,0,36.5474961,44.6383057
+456,457,Bihar,Saran,Rajiv Pratap Rudy,BJP,0,25.856,84.8568
 457,458,Chhattisgarh,Sarguja,Renuka Singh Saruta,BJP,0,22.9494,83.1649
 458,459,Bihar,Sasaram,Chhedi Paswan,BJP,0,24.9509656,84.0148733
 459,460,Maharashtra,Satara,Shrimant Chh. Udayanraje Pratapasinhmaharaj Bhonsle,NCP,8,17.646833649999998,73.97025221467771
@@ -514,7 +514,7 @@
 512,513,Tripura,Tripura East,Rebati Tripura,BJP,0,23.7750823,91.7025091
 513,514,Tripura,Tripura West,Pratima Bhoumik,BJP,0,23.916667,91.5
 514,515,Karnataka,Tumkur,G. S. Basavaraj,BJP,0,13.3400771,77.1006208
-515,516,Meghalaya,Tura,Agatha K. Sangma,NPEP,0,29.9345933,31.2807256
+515,516,Meghalaya,Tura,Agatha K. Sangma,NPEP,0,25.5141,90.2032
 516,517,Rajasthan,Udaipur,Arjunlal Meena,BJP,0,24.578721,73.6862571
 517,518,Jammu & Kashmir,Udhampur,Dr. Jitendra Singh,BJP,0,33.0,75.166667
 518,519,Karnataka,Udupi Chikmagalur,Shobha Karandlaje,BJP,3,13.3409,74.7421
